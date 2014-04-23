@@ -1,0 +1,8 @@
+C:\Users\plabon\Documents\visual studio 2012\Projects\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+C:\Users\plabon\Documents\visual studio 2012\Projects\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+C:\Users\plabon\Documents\visual studio 2012\Projects\Dictionary\Dictionary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\plabon\Documents\visual studio 2012\Projects\Dictionary\Dictionary\obj\Debug\Rabiul_Google_dictionary.Form1.resources
+C:\Users\plabon\Documents\visual studio 2012\Projects\Dictionary\Dictionary\obj\Debug\Dictionary.Properties.Resources.resources
+C:\Users\plabon\Documents\visual studio 2012\Projects\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.GenerateResource.Cache
+C:\Users\plabon\Documents\visual studio 2012\Projects\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+C:\Users\plabon\Documents\visual studio 2012\Projects\Dictionary\Dictionary\obj\Debug\Dictionary.pdb
